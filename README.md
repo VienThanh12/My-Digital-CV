@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Hà Đức Thành Viên
+## Kevin
+_Student at Le Quy Don High School for the Gifted based in Danang, Vietnam_ <br>
+_Major Information Technology_ <br>
+[Email](mailto:vienha000@gmail.com) / [Twitter](https://twitter.com/VinThnh5)  / [GitHub](https://github.com/VienThanh12)  / [Facebook](https://www.facebook.com/vien.thanh.528316/) / [LQDOJ](https://lqdoj.edu.vn/user) / [Codeforces](https://codeforces.com/profile/VienThanhh) / [LQDCoder](http://lequydon.ntucoder.net/Coder/Details/a519vienhdt)
 
-You can use the [editor on GitHub](https://github.com/VienThanh12/My-Digital-CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 👩🏼‍💻 Technical Experience
+## 🏆 Accomplishments
+Consolation prize in Olympic
+## 💬 Languages
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VienThanh12/My-Digital-CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Vietnamese**: Native <br>
+**English**: B2 
+<br><br>
