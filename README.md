@@ -5,7 +5,7 @@ _Major Information Technology_ <br>
 [Email](mailto:vienha000@gmail.com) / [Twitter](https://twitter.com/VinThnh5)  / [GitHub](https://github.com/VienThanh12)  / [Facebook](https://www.facebook.com/vien.thanh.528316/) / [LQDOJ](https://lqdoj.edu.vn/user) / [Codeforces](https://codeforces.com/profile/VienThanhh) / [LQDCoder](http://lequydon.ntucoder.net/Coder/Details/a519vienhdt)
 
 ## 👩🏼‍💻 Technical Experience
-  - C++, Python, HTML, CSS
+  - C++, Python, Free Pascal, HTML, CSS
 
 
 ## 🏆 Accomplishments
