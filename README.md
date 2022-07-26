@@ -11,7 +11,11 @@ _Major Information Technology_ <br>
 ## 🏆 Accomplishments
 **Consolation prize**  round in Vietnam Student Olympiad (August 2021)
 
-**Second prize** provincial merit competition (May 2020, April 2021, June 2021)
+**Second prize** City information technology competition (May 2020, April 2021, June 2021)
+
+**First prize** City excellent student (2022)
+
+**Second prize** City  information technology competition (2022) 
 
 ## 💬 Languages
 
