@@ -14,7 +14,9 @@ _Major Information Technology_ <br>
 **Second prize** City information technology competition (May 2020, April 2021, June 2021)
 
 **First prize** City excellent student (2022)
+
 **Silver medal, Consolation prize** The Olympiad In Informatics in Central Highlands of Vietnam (2021, 2022) 
+
 **Second prize** City  information technology competition (2022) 
 
 ## 💬 Languages
